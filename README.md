@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sole04
+- 👋 Hi, I’m Aldin Softic
 - 👀 I’m interested in web and android development
 - 🌱 I’m currently learning Laravel and Dart(Flutter)
 - 💞️ I’m looking to collaborate on ...
